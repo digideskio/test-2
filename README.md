@@ -13,3 +13,4 @@
   
   *         Building Restful
   APIs
+http://archive.oreilly.com/pub/a/server-administration/excerpts/even-faster-websites/writing-efficient-javascript.html
