@@ -13,5 +13,7 @@
   
   *         Building Restful
   APIs
+15094951
+15097683
 http://corp.rakuten.co.jp/careers/files/doc01_a.html
 http://archive.oreilly.com/pub/a/server-administration/excerpts/even-faster-websites/writing-efficient-javascript.html
